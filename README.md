@@ -3,7 +3,7 @@
 This repo contains a Power BI dashboard that explores community solar adoption for selected sites in Indiana.  
 The goal is to help decision-makers see where solar is already performing well and where there’s room to scale.
 
-![Solar Dashboard](images/dashboard.png)
+![Solar Dashboard](dashboard.png)
 
 ---
 
