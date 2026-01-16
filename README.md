@@ -6,6 +6,7 @@ The goal is to help decision-makers see where solar is already performing well a
 ![Solar Dashboard](dashboard.png)
 
 ---
+https://app.powerbi.com/groups/me/reports/716baf59-5b64-49fe-a3e3-d2ca222c025b/ff30e1632d5db37307bb?experience=power-bi
 
 ## What this dashboard shows
 
